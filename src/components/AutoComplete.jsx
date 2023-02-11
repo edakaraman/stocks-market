@@ -53,6 +53,7 @@ export const AutoComplete = () => {
 
   return (
     <div className="w-50 p-5 rounded mx-auto">
+      <img src="https://icdn.turkiyegazetesi.com.tr/images/22-11/11/intro-resmi-61.png" style={{width:"100%",height:"auto",marginBottom:"20px",borderRadius:"20px"}}></img>
       <div className="form-floating dropdown">
         <input
           style={{ backgroundColor: "rgba(145,158,171,0.04" }}
