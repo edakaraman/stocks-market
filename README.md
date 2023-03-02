@@ -9,6 +9,7 @@
 <li> React Hooks</li>
 <li> Context API</li>
 <li>Local Storage </li>
+<li> React Router </li>
 <li> apexcharts (for graphics) </li>
 </ul>
 
