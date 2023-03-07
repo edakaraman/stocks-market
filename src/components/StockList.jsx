@@ -4,7 +4,6 @@ import finnHub from "../apis/finnHub";
 import { BsFillCaretDownFill, BsFillCaretUpFill } from "react-icons/bs"
 import { WatchListContext } from "../context/watchListContext";
 
-
 export const StockList = () => {
     const [stock,setStock] = useState([]);
     const {watchList,deleteStock} = useContext(WatchListContext);
