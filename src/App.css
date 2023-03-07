@@ -2,6 +2,7 @@
     visibility: hidden;
     display: inline-block;
 }
+
 .table-row:hover .delete-button{
     visibility: visible;
 }
