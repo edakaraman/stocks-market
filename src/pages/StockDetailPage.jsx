@@ -68,7 +68,6 @@ export const StockDetailPage = () => {
     fetchData()
   }, [symbol])
 
-
   return <div>
     {chartData && (
       <div>
