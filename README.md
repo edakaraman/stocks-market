@@ -14,7 +14,7 @@
 </ul>
 
 
-![Screenshot 2023-03-24 010520](https://user-images.githubusercontent.com/95571155/227375291-c46a54a5-51ce-4d63-b523-b5e799398763.png)
+![Screenshot 2023-03-24 010520](https://user-images.githubusercontent.com/95571155/227375520-0a84a36d-ba73-48c7-8f58-573de14345ca.png)
 
 
 
