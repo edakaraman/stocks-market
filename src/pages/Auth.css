@@ -1,0 +1,36 @@
+body{
+    background-image: url("https://www.marketplace.org/wp-content/uploads/2021/10/stockmarket.jpg?fit=2800%2C1575");
+}
+
+button{
+    font-size: large;
+    background-color: #0d6efd;
+    border: none;
+    border-radius: 5px;
+    padding: 7px;
+    width: 150px;
+    margin-top: 8px;
+    color: white;
+}
+
+.input-form{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   gap: 9px;
+   margin:220px;
+}
+
+input{
+    width: 230px;
+    height: 50px;
+    padding: 5px;
+}
+
+input::placeholder{
+ opacity: 0.5;
+}
+
+h2{
+    color: white;
+}
