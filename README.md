@@ -2,7 +2,6 @@
 <p> Stock market data was retrieved with axios using finnHub API. </p>
 <p> Structure/Technologies Used in the Project; </p>
 <ul>
-<li> React</li>
 <li>Bootstrap </li>
 <li> Axios</li>
 <li>React-Icons </li>
@@ -11,6 +10,7 @@
 <li>Local Storage </li>
 <li> React Router </li>
 <li> apexcharts (for graphics) </li>
+  <li> Firebase </li> 
 </ul>
 
 
