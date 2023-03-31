@@ -5,6 +5,7 @@ import finnHub from "../apis/finnHub";
 export const StockData = ({ symbol }) => {
   const [stockData, setStockData] = useState([]);
   let isMounted = true;
+  
   useEffect(() => {
     const fetchData = async () => {
       try {
