@@ -1,4 +1,7 @@
-
+body{
+    background-image: url("https://cdn1.vectorstock.com/i/1000x1000/26/50/abstract-background-stock-market-background-vector-12252650.jpg");
+    background-size: cover; 
+}
 button{
     font-size: large;
     background-color: #0d6efd;

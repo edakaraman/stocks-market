@@ -50,7 +50,7 @@ export const StockList = () => {
     return (
         <div>
            <table className="table hover mt-5">
-                <thead style={{color:"rgb(79,89,102"}}>
+                <thead style={{color:"white"}}>
                     <tr>
                         <th scope="col">Name</th>
                         <th scope="col">Last</th>

@@ -6,3 +6,7 @@
 .table-row:hover .delete-button{
     visibility: visible;
 }
+
+body{
+    color:white;
+}
