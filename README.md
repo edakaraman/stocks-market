@@ -1,4 +1,4 @@
-<h1> Stock Market Data App With React </h1>
+<h1> Stock Market App With React </h1>
 <p> Stock market data was retrieved with axios using finnHub API. </p>
 <p> Structure/Technologies Used in the Project; </p>
 <ul>
